@@ -2,7 +2,7 @@
 
 Ce projet contient un bot WhatsApp qui génère un code QR pour rejoindre un groupe.
 
-- [Lien vers le code QR généré](https://github.com/code_qr.png)
+- [Lien vers le code QR généré](https:/Supremus/Queen_Lydia/code_qr.png)
 
 ## Comment utiliser
 
